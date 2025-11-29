@@ -1,0 +1,19 @@
+# Unreal build / temp
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE stuff
+.vs/
+*.VC.db
+*.suo
+*.user
+*.opensdf
+*.sdf
+
+# Logs / backups
+*.log
+Backup/
+UpgradeLog
